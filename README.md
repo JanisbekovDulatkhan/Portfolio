@@ -6,7 +6,7 @@
 
 ## Projects
 ### Desktop Translator Application
-![l](assets/_1.jpg)
+![l](assets/1_.jpg)
 Created a desktop translator program with a very user-friendly interface.
 ![tra](assets/2_.jpg)
 The program can help you with translating texts in a lot of languages, including but not limited to English, Ukrainian, Arabic, and Uzbek. 
