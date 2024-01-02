@@ -6,15 +6,15 @@
 
 ## Projects
 ### Desktop Translator Application
-![l](assets/8_.jpg)
+![l](assets/_1.jpg)
 Created a desktop translator program with a very user-friendly interface.
-![tra](assets/9_.jpg)
+![tra](assets/2_.jpg)
 The program can help you with translating texts in a lot of languages, including but not limited to English, Ukrainian, Arabic, and Uzbek. 
 
 It also contains links to my(developer's) social media accounts in the "About the developer" section. Feel free to use them if you wish to contact me.
-![translator](assets/8__.jpg)
+![translator](assets/3_.jpg)
 ### Desktop Document Converter
-![initial](assets/1_.jpg)
+![initial](assets/1.jpg)
 Created a program to convert documents from .pdf type to .docx format.
 
 ![initia](assets/2_.jpg)
