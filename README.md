@@ -17,15 +17,15 @@ It also contains links to my(developer's) social media accounts in the "About th
 ![initial](assets/1.jpg)
 Created a program to convert documents from .pdf type to .docx format.
 
-![initia](assets/2_.jpg)
+![initia](assets/2.jpg)
 
 It works offline, so any user can use it whenever they want no matter their internet connection.
 
-![init](assets/3_.jpg)
+![init](assets/3.jpg)
 
 It also provides my email address as well as links to my social media accounts.
 
-![ini](assets/4_.jpg)
+![ini](assets/4.jpg)
 
 # Progamming Experience in other fields
 I have completed a lot of courses based on two programming languages: Java and C++. 
