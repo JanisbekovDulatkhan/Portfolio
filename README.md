@@ -31,16 +31,69 @@ It also provides my email address as well as links to my social media accounts.
 I have completed a lot of courses based on two programming languages: Java and C++. 
 ##Courses
 ###Android Development Track
+
+
 ![android](assets/img/UDACITY.pdf)
+
+
+
+
+
 ###Data Science Math Skills
+
+
+
+
 ![coursera](assets/img/CourseraDataScience.pdf)
+
+
+
+
 ###Java Foundations
+
+
+
+
 ![oracle](assets/img/OracleAcademy.pdf)
+
+
+
+
 ###Java. Quick Start
+
+
+
+
 ![java](assets/img/4610981_1039966.ru.pdf)
+
+
+
+
 ###Android Developing for beginners. Practice
+
+
+
+
 ![and](assets/img/android.pdf)
+
+
+
+
 ###Java for beginners. Intensive
+
+
+
+
 ![int](assets/img/4610981_1013454.ru.pdf)
+
+
+
+
 ###Career in Android: from choosing a course to senior developer.
+
+
+
+
 ![career](assets/img/CareerinAndroid.pdf)
+
+
