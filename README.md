@@ -33,67 +33,14 @@ I have completed a lot of courses based on two programming languages: Java and C
 ###Android Development Track
 
 
-![android](assets/img/UDACITY.pdf)
-
-
-
-
-
+![android](assets/img/1177.jpg)
 ###Data Science Math Skills
-
-
-
-
-![coursera](assets/img/CourseraDataScience.pdf)
-
-
-
-
+![coursera](assets/img/89.jpg)
 ###Java Foundations
-
-
-
-
-![oracle](assets/img/OracleAcademy.pdf)
-
-
-
-
+![oracle](assets/img/48.jpg)
 ###Java. Quick Start
-
-
-
-
-![java](assets/img/4610981_1039966.ru.pdf)
-
-
-
-
-###Android Developing for beginners. Practice
-
-
-
-
-![and](assets/img/android.pdf)
-
-
-
-
+![java](assets/img/45_page-0001.jpg)
 ###Java for beginners. Intensive
-
-
-
-
-![int](assets/img/4610981_1013454.ru.pdf)
-
-
-
-
+![int](assets/img/46109_page-0001.jpg)
 ###Career in Android: from choosing a course to senior developer.
-
-
-
-
-![career](assets/img/CareerinAndroid.pdf)
-
-
+![career](assets/img/1704219692463-aeafdef6-b335-4642-ba48-3220564fb9c5_1.jpg)
